@@ -1,0 +1,14 @@
+search /usr
+search /usr/share/fonts
+search paradi
+cd /usr/share/fonts
+open_with
+open_with 
+cd 
+open_with enam
+rename nord_wall1
+dd
+mv
+cut
+rename
+rename nord_wall1.png
