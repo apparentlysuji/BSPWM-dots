@@ -1,5 +1,0 @@
-2022/04/27-15:43:08.500 d589 Creating DB /home/suji/.config/discord/Local Storage/leveldb since it was missing.
-2022/04/27-15:43:08.513 d589 Reusing MANIFEST /home/suji/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/04/27-15:45:11.875 d872 Level-0 table #5: started
-2022/04/27-15:45:11.923 d872 Level-0 table #5: 411549 bytes OK
-2022/04/27-15:45:11.925 d872 Delete type=0 #3
